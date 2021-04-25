@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/React-Portfolio/static/css/main.c818c7a8.chunk.css",
+    "main.js": "/React-Portfolio/static/js/main.903de5cc.chunk.js",
+    "main.js.map": "/React-Portfolio/static/js/main.903de5cc.chunk.js.map",
+    "runtime-main.js": "/React-Portfolio/static/js/runtime-main.0ad08de7.js",
+    "runtime-main.js.map": "/React-Portfolio/static/js/runtime-main.0ad08de7.js.map",
+    "static/js/2.aadc951f.chunk.js": "/React-Portfolio/static/js/2.aadc951f.chunk.js",
+    "static/js/2.aadc951f.chunk.js.map": "/React-Portfolio/static/js/2.aadc951f.chunk.js.map",
+    "index.html": "/React-Portfolio/index.html",
+    "precache-manifest.540e41e2bffed23bb79986dcef24227a.js": "/React-Portfolio/precache-manifest.540e41e2bffed23bb79986dcef24227a.js",
+    "service-worker.js": "/React-Portfolio/service-worker.js",
+    "static/css/main.c818c7a8.chunk.css.map": "/React-Portfolio/static/css/main.c818c7a8.chunk.css.map",
+    "static/js/2.aadc951f.chunk.js.LICENSE.txt": "/React-Portfolio/static/js/2.aadc951f.chunk.js.LICENSE.txt",
+    "static/media/Note-Taker.png": "/React-Portfolio/static/media/Note-Taker.3ed7aacf.png",
+    "static/media/SWATCH.png": "/React-Portfolio/static/media/SWATCH.6b91baac.png",
+    "static/media/Team-Profile-Generator.png": "/React-Portfolio/static/media/Team-Profile-Generator.1967a755.png",
+    "static/media/Weather-Dashboard.png": "/React-Portfolio/static/media/Weather-Dashboard.0989e52d.png",
+    "static/media/cover-image.jpg": "/React-Portfolio/static/media/cover-image.e1c8cf1f.jpg",
+    "static/media/header-img.png": "/React-Portfolio/static/media/header-img.0912f141.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0ad08de7.js",
+    "static/js/2.aadc951f.chunk.js",
+    "static/css/main.c818c7a8.chunk.css",
+    "static/js/main.903de5cc.chunk.js"
+  ]
+}

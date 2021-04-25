@@ -4,7 +4,7 @@ A Personal Portfolio Page that was built using React. You will find links to per
 
 ## Screenshot
 
-
+![screencapture-localhost-3000-React-Portfolio-2021-04-25-00_42_14](https://user-images.githubusercontent.com/71106177/115981070-28357400-a55f-11eb-8220-212bb6c381d9.png)
 
 
 ## Installation
