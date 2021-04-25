@@ -23,10 +23,10 @@ https://sammichbrown.github.io/React-Portfolio/
 
 ## Questions
 
-Contact email: sammichellebrown@outlook.com
+Email: sammichellebrown@outlook.com
 
 GitHub: https://github.com/SamMichBrown
 
-## Contribution
+### Contribution
 
 Samantha Brown (c)
