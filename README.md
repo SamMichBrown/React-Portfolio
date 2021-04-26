@@ -17,16 +17,21 @@ In the project directory, you can run:
 Runs the app in development mode.
 Open "http://localhost:3000" to view it in your local browser.
 
+If you are to create your own website like this, you will need to deploy the website using,
+
+- npm start build
+- npm run deploy
+
 ## Webpage
 
 https://sammichbrown.github.io/React-Portfolio/
 
 ## Questions
 
-Contact email: sammichellebrown@outlook.com
+Email: sammichellebrown@outlook.com
 
 GitHub: https://github.com/SamMichBrown
 
-## Contribution
+### Contribution
 
 Samantha Brown (c)
