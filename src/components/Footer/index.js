@@ -11,6 +11,10 @@ function Footer() {
       name: "fab fa-linkedin",
       link: "https://www.linkedin.com/in/samantha-brown-a8793b1b6"
     },
+    {
+      name: "fab fa-twitter",
+      link: "https://twitter.com/SamAnActualLamb"
+    },
   ]
 
   return (

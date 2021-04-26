@@ -6,13 +6,13 @@ function Portfolio() {
   const [projects] = useState([
     {
       name: 'Team-Profile-Generator',
-      description: 'Create a team of employees and employers using this generator.',
+      description: 'Generate a Workplace team.',
       link: "https://sammichbrown.github.io/Team-Profile-Generator/",
       repo: "https://github.com/SamMichBrown/Team-Profile-Generator"
     },
     {
       name: 'Weather-Dashboard',
-      description: 'A Weather Dashboard to find local or far off weather.',
+      description: 'Weather information app.',
       link: "https://sammichbrown.github.io/Weather-Dashboard/",
       repo: "https://github.com/SamMichBrown/Weather-Dashboard"
     },

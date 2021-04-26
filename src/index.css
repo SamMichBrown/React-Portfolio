@@ -5,14 +5,14 @@ main {
   font-family: 'Goudy Bookletter 1911', serif;
 }
 :root {
-  --primary: #feffc4;
-  --secondary: #b89a16;
-  --tertiary: #811a1f;
+  --primary: #dac49c;
+  --secondary: #000000;
+  --tertiary: #738699;
   --light: #FFFCF9;
   --dark: #000000;
-  --darker: #3e3c3f;
-  --alpha: #316f92;
-  --error: #7c222b;
+  --darker: #9eb5bf;
+  --alpha: #80a4ab;
+  --error: #d0979a;
   --spacing-one: calc(1rem * 0.5);
   --spacing-two: calc(1rem);
   --spacing-five: calc(2.5rem);
@@ -53,8 +53,8 @@ h6 {
 }
 
 h1 {
-  font-size: 50px;
-  margin: 50px 20px;
+  font-size: 52px;
+  margin: 46px 42px;
   text-shadow: 5px 5px 10px rgba(0, 0, 0, 0.5);
   display: flex;
   flex-direction: row;
@@ -62,10 +62,16 @@ h1 {
 
 h2 {
   font-size: 38px;
+  margin: auto;
+  width: 50%;
+  border: 5px solid var(--alpha);
+  padding: 10px;
+  text-align: center;
 }
 
 h3 {
   font-size: 1.75rem;
+  text-align: center;
 }
 
 h4 {
@@ -81,15 +87,18 @@ h6 {
 }
 
 p {
-  font-size: 1.1rem;
+  font-size: 1.5rem;
   margin: 20px 0;
-  line-height: 2rem;
+  line-height: 2.3rem;
+  border: 5px solid var(--alpha);
+  text-align: center;
 }
 
 a {
   color: var(--light);
   text-decoration: none;
   opacity: .5;
+  text-align: center;
 }
 
 a:hover {
@@ -130,18 +139,16 @@ button[disabled] {
   opacity: 0.8;
 }
 
-img .cover {
-  size: 50%;
+.profilePicture{
+  size: 50px;
 }
 
 img {
   max-width: 100%;
-  position: relative;
-}
-
-img, .cover {
-  position: relative;
-  align-items: center;
+  border: var( --tertiary) 10px solid;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 span[role='img'] {
@@ -256,6 +263,10 @@ textarea {
 .flex-row {
   display: flex;
   flex-wrap: wrap;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  align-content: space-around;
 }
 
 .space-between {
@@ -350,7 +361,7 @@ textarea {
 .project-text:hover {
   background-color: var(--alpha);
   opacity: 1;
-  border: 10px solid var(--secondary);
+  border: 10px solid var(--tertiary);
 }
 
 .project-text h3 {
