@@ -28,6 +28,12 @@ function Portfolio() {
       link: "https://swatch-makeup-reviews.herokuapp.com/login",
       repo: "https://github.com/Project-Two-Group-Nine/SWATCH"
     },
+    {
+      name: 'BookEnd',
+      description: 'Book Reccomendation Website - Group Project 3',
+      link: "http://bookend-recommendations.herokuapp.com/",
+      repo: "https://github.com/project3UOT/bookend"
+    },
   ]);
 
   return (
